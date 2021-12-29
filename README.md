@@ -6,6 +6,7 @@ What I enjoy the most is structuring complexities as a data-driven decision-make
 
 Currently, I am in pursuit of Data Analyst and Business Analyst roles at an organization where I can serve a mission I can believe in every day. My preferred technologies include Python, SQL, and Tableau.
 
+![](Images/Melinda_Avatar.png)
 
 <!--
 **melindamalone/melindamalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
