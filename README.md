@@ -1,12 +1,12 @@
-### Hello, I'm Melinda Malone, and welcome to my GitHub profile👋
+### Hello, I'm Melinda Malone, and welcome to my GitHub profile👋 ![](Images/Melinda_Avatar_Medium.PNG)
 
 I’m a business school graduate from the Bill Munday School of Business at St. Edward’s University in Austin, TX, received certification in Data Analysis and Visualization from the McCombs School of Business at UT Austin, worked nine years in the global supply chain billing operations on behalf of Dell Technologies, and possess a lifetime of customer service experience.
 
-What I enjoy the most is structuring complexities as a data-driven decision-maker and through the development and continuous improvement of operational processes. I’m an analytical and strategic problem-solver, leader, and collaborator with an investigative curiosity.
+What I enjoy the most is structuring complexities and organizing details into interactive reports, visualizations, and presentations for my stakeholders.  Working with large and complex datasets for more than ten years in the technology industry has made me realize I'm undeniably driven by facts and data to make decisions in all aspects of my life.
 
-Currently, I am in pursuit of Data Analyst and Business Analyst roles at an organization where I can serve a mission I can believe in every day. My preferred technologies include Python, SQL, and Tableau.
+Also, as an analytical and strategic problem-solver, leader, and collaborator with an investigative curiosity, I strive to understand processes in their entirety to either suggest or create methodologies for the development and continuous improvement of operational processes.
 
-![](Images/Melinda_Avatar_Medium.PNG)
+Currently, I am in pursuit of Data Analyst and Business Analyst roles in Austin, TX, or remotely, at an organization where I can serve a mission, I can believe in every day. My preferred technologies include SQL, Python, and Tableau. Please check out my GitHub Repositories to further understand additional technologies I’m experienced in using.  If you have any questions or would like to connect, please email me, or reach out on LinkedIn!
 
 <!--
 **melindamalone/melindamalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
