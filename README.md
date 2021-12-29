@@ -6,7 +6,7 @@ What I enjoy the most is structuring complexities and organizing details into in
 
 Also, as an analytical and strategic problem-solver, leader, and collaborator with an investigative curiosity, I strive to understand processes in their entirety to either suggest or create methodologies from scratch for the development and continuous improvement of operational processes.
 
-Currently, I am in pursuit of Data Analyst and Business Analyst roles in Austin, TX, or remotely, at an organization where I can serve a mission, I can believe in every day. My preferred technologies include SQL, Python, and Tableau. Please check out my [GitHub Repositories](https://github.com/melindamalone?tab=repositories) to further understand additional technologies I’m experienced in using.  If you have any questions or would like to connect, please [email me](mrs.melindamalone@gmail.com), or reach out on [LinkedIn](https://www.linkedin.com/in/melindamalone/)!
+Currently, I am in pursuit of Data Analyst and Business Analyst roles in Austin, TX, or remotely, at an organization where I can serve a mission, I can believe in every day. My preferred technologies include SQL, Python, and Tableau. Please check out my [GitHub Repositories](https://github.com/melindamalone?tab=repositories) to further understand additional technologies I’m experienced in using.  If you have any questions or would like to connect, please [email me](mailto:mrs.melindamalone@gmail.com?subject=[GitHub]%20Visitor%20from%20GitHub%20Profile), or reach out on [LinkedIn](https://www.linkedin.com/in/melindamalone/)!
 
 <!--
 **melindamalone/melindamalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
