@@ -1,12 +1,12 @@
 # Hello, I'm Melinda Malone, and welcome to my GitHub profile👋![](Images/Melinda_Avatar_Medium.PNG)
 
-I’m a business school graduate from the Bill Munday School of Business at St. Edward’s University in Austin, TX, received certification in Data Analysis and Visualization from the McCombs School of Business at UT Austin, worked nine years in the global supply chain billing operations on behalf of Dell Technologies, and possess a lifetime of customer service experience.
+I’m a business school graduate from the Bill Munday School of Business at [St. Edward’s University](https://stedwards.edu/) in Austin, TX, received certification in Data Analysis and Visualization from the [McCombs School of Business at UT Austin](https://www.mccombs.utexas.edu/), worked nine years in the global supply chain billing operations on behalf of [Dell Technologies](https://www.delltechnologies.com/), and possess a lifetime of customer service experience.
 
 What I enjoy the most is structuring complexities and organizing details into interactive reports, visualizations, and presentations for my stakeholders.  Working with large and complex datasets for more than ten years in the technology industry has made me realize I'm undeniably driven by facts and data to make decisions in all aspects of my life.
 
-Also, as an analytical and strategic problem-solver, leader, and collaborator with an investigative curiosity, I strive to understand processes in their entirety to either suggest or create methodologies for the development and continuous improvement of operational processes.
+Also, as an analytical and strategic problem-solver, leader, and collaborator with an investigative curiosity, I strive to understand processes in their entirety to either suggest or create methodologies from scratch for the development and continuous improvement of operational processes.
 
-Currently, I am in pursuit of Data Analyst and Business Analyst roles in Austin, TX, or remotely, at an organization where I can serve a mission, I can believe in every day. My preferred technologies include SQL, Python, and Tableau. Please check out my GitHub Repositories to further understand additional technologies I’m experienced in using.  If you have any questions or would like to connect, please email me, or reach out on LinkedIn!
+Currently, I am in pursuit of Data Analyst and Business Analyst roles in Austin, TX, or remotely, at an organization where I can serve a mission, I can believe in every day. My preferred technologies include SQL, Python, and Tableau. Please check out my [GitHub Repositories](https://github.com/melindamalone?tab=repositories) to further understand additional technologies I’m experienced in using.  If you have any questions or would like to connect, please email me, or reach out on [LinkedIn](https://www.linkedin.com/in/melindamalone/)!
 
 <!--
 **melindamalone/melindamalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
