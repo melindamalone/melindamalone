@@ -1,4 +1,4 @@
-### Hello, I'm Melinda Malone, and welcome to my GitHub profile👋 ![](Images/Melinda_Avatar_Medium.PNG)
+# Hello, I'm Melinda Malone, and welcome to my GitHub profile👋 ![](Images/Melinda_Avatar_Medium.PNG)
 
 I’m a business school graduate from the Bill Munday School of Business at St. Edward’s University in Austin, TX, received certification in Data Analysis and Visualization from the McCombs School of Business at UT Austin, worked nine years in the global supply chain billing operations on behalf of Dell Technologies, and possess a lifetime of customer service experience.
 
