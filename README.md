@@ -11,9 +11,9 @@ Also, as an analytical and strategic problem-solver, leader, and collaborator wi
 At this moment, I am in pursuit of Data Analyst and Business Analyst roles in Austin, TX, or remote opportunities. My preferred on-the-job technologies are SQL, Python, and Tableau. Please check out my [GitHub Repositories](https://github.com/melindamalone?tab=repositories) to further understand additional technologies I’m experienced in using.  If you have any questions or would like to connect, please [email me](mailto:mrs.melindamalone@gmail.com?subject=[GitHub]%20Visitor%20from%20GitHub%20Profile), or reach out on [LinkedIn](https://www.linkedin.com/in/melindamalone/)!
 
 ### Professional Affiliations
-[Austin Women in Technology](https://www.awtaustin.org/)
-[Latinas in Tech](https://latinasintech.org/)
-[PyLadies ATX](https://pyladies.com/)
+- [Austin Women in Technology](https://www.awtaustin.org/)
+- [Latinas in Tech](https://latinasintech.org/)
+- [PyLadies ATX](https://pyladies.com/)
 
 <!--
 **melindamalone/melindamalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
