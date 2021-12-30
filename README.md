@@ -1,7 +1,7 @@
 # Hello, I'm Melinda Malone, and welcome to my GitHub profile👋![](Images/Melinda_Avatar_Medium.PNG)
 
 ### About Me
-I’m a business school graduate from [the Bill Munday School of Business](https://www.stedwards.edu/business) at [St. Edward’s University](https://stedwards.edu/) in [Austin, TX](https://www.austintexas.org/), received certification in Data Analysis and Visualization from the [McCombs School of Business](https://www.mccombs.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/), worked nine years in the global supply chain billing operations on behalf of [Dell Technologies](https://www.delltechnologies.com/), and possess a lifetime of customer service experience.
+I’m a business school graduate from [The Bill Munday School of Business](https://www.stedwards.edu/business) at [St. Edward’s University](https://stedwards.edu/) in [Austin, TX](https://www.austintexas.org/), received certification in Data Analysis and Visualization from the [McCombs School of Business](https://www.mccombs.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/), worked nine years in the global supply chain billing operations on behalf of [Dell Technologies](https://www.delltechnologies.com/), and possess a lifetime of customer service experience.
 
 What I enjoy the most is structuring complexities and organizing details into interactive reports, visualizations, and presentations for my stakeholders.  Working with large and complex datasets for more than ten years in the technology industry has made me realize I'm undeniably driven by facts and data to make decisions in all aspects of my life.
 
